@@ -1,0 +1,170 @@
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 21:57:19"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 21:57:50"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 22:48:04"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 22:48:29"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 22:48:44"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-18 22:49:14"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 22:51:46"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 22:52:29"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-18 22:53:00"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-18 22:54:57"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 00:16:51"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 00:17:21"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 00:24:56"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 00:26:35"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 00:27:06"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 00:27:14"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 00:29:56"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 00:30:26"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 00:30:49"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 09:40:45"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 09:41:19"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 10:16:40"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 10:16:44"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 10:17:06"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 10:17:16"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 10:17:34"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 10:17:40"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 10:19:55"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 10:40:12"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-00.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-19 10:40:18"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 10:41:21"}
+{"level":"info","message":"User logged in: cashier@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 10:42:19"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 10:51:15"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 11:03:52"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 11:03:52"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 11:04:04"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 11:04:04"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 11:08:46"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 11:36:51"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 11:52:50"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 11:52:50"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 13:28:18"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 13:28:48"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 13:30:09"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-00.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-19 13:30:13"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 13:31:07"}
+{"level":"info","message":"User logged in: cashier@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 13:33:17"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 13:37:02"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 13:37:02"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 13:37:07"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 13:37:09"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 13:42:47"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 13:43:00"}
+{"level":"info","message":"User logged in: cashier@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 13:52:46"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 13:54:33"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-19 14:39:40"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-19 14:39:41"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 14:51:40"}
+{"level":"info","message":"User logged in: cashier@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 14:54:04"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-19 15:02:48"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-19 15:12:09"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-20 06:30:15"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-20 06:30:15"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-20 06:41:00"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-20 09:54:16"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-20 09:54:49"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-20 11:05:05"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 09:42:09"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 09:42:40"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 09:43:08"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 09:43:38"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 10:18:22"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-02.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-21 10:18:25"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 10:18:58"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-01.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-21 10:19:03"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 10:20:48"}
+{"level":"info","message":"New user registered: vijay123@gmail.com (employee)","service":"cafe-billing","timestamp":"2026-05-21 10:25:04"}
+{"level":"info","message":"User logged in: cashier@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 10:30:56"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 10:31:47"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 10:54:16"}
+{"level":"info","message":"New user registered: Mohitkumar@gamil.com (employee)","service":"cafe-billing","timestamp":"2026-05-21 12:02:45"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 12:36:35"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 12:36:46"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 12:36:46"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 12:51:40"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 12:53:05"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 12:53:05"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 13:01:02"}
+{"level":"info","message":"User logged in: cashier@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 13:16:28"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:26:28"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-01.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-21 13:26:31"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 13:29:12"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 13:46:56"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 13:46:56"}
+{"level":"error","message":"500 - getaddrinfo ENOTFOUND ac-srxffyk-shard-00-01.yskfjd0.mongodb.net - /api/auth/login - POST","service":"cafe-billing","stack":"MongoServerSelectionError: getaddrinfo ENOTFOUND ac-srxffyk-shard-00-01.yskfjd0.mongodb.net\n    at Topology.selectServer (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:327:38)\n    at async tryOperation (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:148:18)\n    at async executeOperation (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:78:16)\n    at async FindCursor._initialize (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\find_cursor.js:62:26)\n    at async FindCursor.cursorInit (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:632:27)\n    at async FindCursor.fetchBatch (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:666:13)\n    at async FindCursor.next (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:342:17)\n    at async Collection.findOne (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\collection.js:313:24)\n    at async model.Query._findOne (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongoose\\lib\\query.js:2710:15)\n    at async model.Query.exec (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongoose\\lib\\query.js:4627:63)","timestamp":"2026-05-21 13:48:55"}
+{"level":"error","message":"500 - getaddrinfo ENOTFOUND ac-srxffyk-shard-00-01.yskfjd0.mongodb.net - /api/auth/login - POST","service":"cafe-billing","stack":"MongoServerSelectionError: getaddrinfo ENOTFOUND ac-srxffyk-shard-00-01.yskfjd0.mongodb.net\n    at Topology.selectServer (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:327:38)\n    at async tryOperation (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:148:18)\n    at async executeOperation (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:78:16)\n    at async FindCursor._initialize (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\find_cursor.js:62:26)\n    at async FindCursor.cursorInit (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:632:27)\n    at async FindCursor.fetchBatch (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:666:13)\n    at async FindCursor.next (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:342:17)\n    at async Collection.findOne (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\collection.js:313:24)\n    at async model.Query._findOne (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongoose\\lib\\query.js:2710:15)\n    at async model.Query.exec (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongoose\\lib\\query.js:4627:63)","timestamp":"2026-05-21 13:49:23"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:50:19"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:50:47"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 13:51:17"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:54:08"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:54:19"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 13:54:49"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:55:56"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:56:07"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 13:56:28"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:58:02"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 13:58:14"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 13:58:44"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 14:02:36"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 14:02:38"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 14:02:57"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 14:03:14"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 14:11:44"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-00.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-21 14:11:47"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 14:11:56"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-02.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-21 14:12:07"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 14:13:08"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:45:59"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:46:08"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:46:09"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:46:09"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:46:13"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:46:30"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:46:33"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:46:40"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:46:46"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:46:51"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:46:54"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:47:03"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:47:09"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:59:16"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:59:22"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:59:23"}
+{"level":"error","message":"500 - F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n - /api/analytics/payment-methods - GET","service":"cafe-billing","stack":"MongoNetworkError: F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n\n    at TLSSocket.<anonymous> (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connect.js:286:44)\n    at Object.onceWrapper (node:events:634:26)\n    at TLSSocket.emit (node:events:519:28)\n    at emitErrorNT (node:internal/streams/destroy:170:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2026-05-21 15:59:23"}
+{"level":"error","message":"500 - Connection pool for ac-srxffyk-shard-00-02.yskfjd0.mongodb.net:27017 was cleared because another operation failed with: \"F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n\" - /api/analytics/dashboard - GET","service":"cafe-billing","stack":"MongoPoolClearedError: Connection pool for ac-srxffyk-shard-00-02.yskfjd0.mongodb.net:27017 was cleared because another operation failed with: \"F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n\"\n    at ConnectionPool.processWaitQueue (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:449:82)\n    at ConnectionPool.clear (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:243:14)\n    at updateServers (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:518:29)\n    at Topology.serverUpdateHandler (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:394:9)\n    at Server.<anonymous> (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:501:77)\n    at Server.emit (node:events:519:28)\n    at markServerUnknown (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:358:12)\n    at Server.handleError (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:249:17)\n    at C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:395:25\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-05-21 15:59:23"}
+{"level":"error","message":"500 - F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n - /api/analytics/sales?range=weekly - GET","service":"cafe-billing","stack":"MongoNetworkError: F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n\n    at TLSSocket.<anonymous> (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connect.js:286:44)\n    at Object.onceWrapper (node:events:634:26)\n    at TLSSocket.emit (node:events:519:28)\n    at emitErrorNT (node:internal/streams/destroy:170:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2026-05-21 15:59:23"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:59:27"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 15:59:39"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 15:59:44"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:07:07"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:07:13"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:07:18"}
+{"level":"error","message":"500 - Connection pool for ac-srxffyk-shard-00-02.yskfjd0.mongodb.net:27017 was cleared because another operation failed with: \"F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n\" - /api/analytics/dashboard - GET","service":"cafe-billing","stack":"MongoPoolClearedError: Connection pool for ac-srxffyk-shard-00-02.yskfjd0.mongodb.net:27017 was cleared because another operation failed with: \"F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n\"\n    at ConnectionPool.processWaitQueue (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:449:82)\n    at ConnectionPool.clear (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:243:14)\n    at updateServers (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:518:29)\n    at Topology.serverUpdateHandler (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:394:9)\n    at Server.<anonymous> (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\topology.js:501:77)\n    at Server.emit (node:events:519:28)\n    at markServerUnknown (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:358:12)\n    at Server.handleError (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:249:17)\n    at C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:395:25\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2026-05-21 16:07:18"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:07:23"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:07:28"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:07:34"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:07:41"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:07:47"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 16:08:52"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:08:53"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:09:03"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 16:09:26"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:09:32"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:09:39"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:09:39"}
+{"level":"error","message":"500 - F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n - /api/analytics/dashboard - GET","service":"cafe-billing","stack":"MongoNetworkError: F84E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\\ws\\deps\\openssl\\openssl\\ssl\\record\\rec_layer_s3.c:916:SSL alert number 80\n\n    at TLSSocket.<anonymous> (C:\\Users\\parme\\OneDrive\\Dokumen\\OneDrive\\Desktop\\smart billing\\cafe-system\\backend\\node_modules\\mongodb\\lib\\cmap\\connect.js:286:44)\n    at Object.onceWrapper (node:events:634:26)\n    at TLSSocket.emit (node:events:519:28)\n    at emitErrorNT (node:internal/streams/destroy:170:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2026-05-21 16:09:39"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:09:45"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:09:46"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:10:01"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 16:18:52"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:18:53"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:18:59"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:19:13"}
+{"level":"info","message":"MongoDB reconnected successfully","service":"cafe-billing","timestamp":"2026-05-21 16:19:16"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 16:20:00"}
+{"level":"warn","message":"MongoDB disconnected. Attempting to reconnect...","service":"cafe-billing","timestamp":"2026-05-21 16:20:07"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 16:22:42"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"cafe-billing","timestamp":"2026-05-21 16:22:53"}
+{"level":"info","message":"✅ MongoDB Connected: ac-srxffyk-shard-00-02.yskfjd0.mongodb.net","service":"cafe-billing","timestamp":"2026-05-21 16:23:02"}
+{"level":"info","message":"User logged in: admin@cafe.com","service":"cafe-billing","timestamp":"2026-05-21 16:24:07"}

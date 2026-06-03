@@ -1,0 +1,2 @@
+const { categoryRouter, billRouter, inventoryRouter, customerRouter, couponRouter, tableRouter, supplierRouter, notificationRouter, userRouter, uploadRouter } = require('./otherRoutes');
+const map = { categoryRoutes: categoryRouter, billRoutes: billRouter, inventoryRoutes: inventoryRouter, customerRoutes: customerRouter, couponRoutes: couponRouter, tableRoutes: tableRouter, supplierRoutes: supplierRouter, notificationRoutes: notificationRouter, userRoutes: userRouter, uploadRoutes: uploadRouter };
